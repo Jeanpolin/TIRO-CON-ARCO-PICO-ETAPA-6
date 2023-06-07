@@ -1,1 +1,1 @@
-# TIRO-CON-ARCO-PICO-ETAPA-6
+# Solución del proyecto 33
